@@ -1,5 +1,3 @@
-# AUTHOR: Wolfgang Vogl <wolfgang.vogl01@gmail.com>
-
 dir="/var/www/"
 app="projectName"
 server="10.10.0.1"
